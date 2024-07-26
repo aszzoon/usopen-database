@@ -22,6 +22,5 @@ FROM cte;
 SELECT COUNT(*)
 FROM users;
 
-select *
-from users
+select * from users
 where age = 23;
